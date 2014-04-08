@@ -74,11 +74,11 @@ class RestaurantTableSeeder extends Seeder {
 			$place->address = getStreet($entry->address);
 			$place->zip = getZip($entry->address);
 			$place->save();
-			// echo $place->id . PHP_EOL;
+			
 
 			$inspect = new Inspection();
 
-			$inspect->last_date = $entry->date;
+			$inspect->last_date = strtotime($entry->date);
 			$inspect->demerits = $entry->demerits;
 			$inspect->url = $entry->link;
 			
