@@ -301,13 +301,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=119752&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"tacos a la mexicana",
-    "address":"3800 nogalitos st san antonio, tx 782111332",
-    "date":"12/3/12",
-    "demerits":20,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=360934&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"the arizona cafe",
     "address":"1111 gen mcmullen s san antonio, tx 782370",
     "date":"12/3/12",
@@ -341,20 +334,6 @@
     "date":"12/3/12",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=360947&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"william j brennan",
-    "address":"2400 cottonwood way bexar county, tx 782530",
-    "date":"12/3/12",
-    "demerits":6,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=360927&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"wing stop restaurant #",
-    "address":"5222 de zavala rd san antonio, tx 782300",
-    "date":"12/3/12",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=90644&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"wizard sno #",
@@ -714,25 +693,11 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361027&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"stephen holmsley",
-    "address":"207 chavaneaux w san antonio, tx 782213902",
-    "date":"12/5/12",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=119757&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"sulema's lounge",
     "address":"2850 culebra rd san antonio, tx 782286220",
     "date":"12/5/12",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361063&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"the flame restaurant",
-    "address":"408 dolorosa san antonio, tx 782041002",
-    "date":"12/5/12",
-    "demerits":6,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361028&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"valero corner store # 531",
@@ -747,13 +712,6 @@
     "date":"12/5/12",
     "demerits":3,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301495&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"waxy o'connor irish pub",
-    "address":"234 riverwalk san antonio, tx 782050",
-    "date":"12/5/12",
-    "demerits":11,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361088&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"western broiler",
@@ -1113,20 +1071,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361085&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"sultan cafe",
-    "address":"5625 babcock rd san antonio, tx 782401812",
-    "date":"12/6/12",
-    "demerits":14,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301505&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"taco madre taqueria",
-    "address":"5440 babcock rd san antonio, tx 782403946",
-    "date":"12/6/12",
-    "demerits":24,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301496&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"the gazebo",
     "address":"2015 loop 410 ne san antonio, tx 782175411",
     "date":"12/6/12",
@@ -1139,13 +1083,6 @@
     "date":"12/6/12",
     "demerits":3,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=90649&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"the melting pot",
-    "address":"14855 blanco rd san antonio, tx 782487732",
-    "date":"12/6/12",
-    "demerits":6,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361147&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"the mustard seed early learning center",
@@ -1167,20 +1104,6 @@
     "date":"12/6/12",
     "demerits":3,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301504&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"topi's mexican restaurant",
-    "address":"17695 luckey rd bexar county, tx 780520",
-    "date":"12/6/12",
-    "demerits":23,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361141&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"tripoli's mediterranean grill",
-    "address":"302 valley hi dr san antonio, tx 782274602",
-    "date":"12/6/12",
-    "demerits":33,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361143&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"valero corner store #1070",
@@ -1631,13 +1554,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361270&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"wendys #19 #",
-    "address":"7039 culebra rd san antonio, tx 782384603",
-    "date":"12/10/12",
-    "demerits":5,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361219&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"whataburger #660",
     "address":"18417 us 281 n san antonio, tx 782580",
     "date":"12/10/12",
@@ -1988,13 +1904,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361354&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"texas meat market",
-    "address":"3682 culebra rd san antonio, tx 782280",
-    "date":"12/11/12",
-    "demerits":4,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361293&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"thai bistro & sushi",
     "address":"5999 de zavala rd san antonio, tx 782492236",
     "date":"12/11/12",
@@ -2014,20 +1923,6 @@
     "date":"12/11/12",
     "demerits":17,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361333&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"torresitas mexican restaurant",
-    "address":"3546 culebra rd san antonio, tx 782285944",
-    "date":"12/11/12",
-    "demerits":15,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361342&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"tortas ahogadas el chivito",
-    "address":"3907 culebra rd san antonio, tx 782285822",
-    "date":"12/11/12",
-    "demerits":8,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361312&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"triology pizza & wine bistro inc #",
@@ -2331,20 +2226,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=119777&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"stephen holmsley",
-    "address":"207 chavaneaux w san antonio, tx 782213902",
-    "date":"12/12/12",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=119775&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"stephen holmsley",
-    "address":"207 chavaneaux w san antonio, tx 782213902",
-    "date":"12/12/12",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=121703&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"taco cabana #120 #",
     "address":"12731 ih 10 w san antonio, tx 78249",
     "date":"12/12/12",
@@ -2371,13 +2252,6 @@
     "date":"12/12/12",
     "demerits":7,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361363&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"the corporate square coffee",
-    "address":"4801 loop 410 nw san antonio, tx 782295347",
-    "date":"12/12/12",
-    "demerits":5,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301518&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"the waterford",
@@ -2751,13 +2625,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=93021&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"taqueria el rodeo de jalisco #",
-    "address":"4044 culebra rd san antonio, tx 782285869",
-    "date":"12/13/12",
-    "demerits":22,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361460&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"taqueria el tapatio de jalisco",
     "address":"10410 culebra rd san antonio, tx 782513602",
     "date":"12/13/12",
@@ -3015,13 +2882,6 @@
     "date":"12/14/12",
     "demerits":19,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=121714&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"tokyo gardens catering llc #",
-    "address":"18140 us 281 n san antonio, tx 782320",
-    "date":"12/14/12",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361533&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"triple s express",
@@ -3423,20 +3283,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361679&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"starbucks",
-    "address":"1 camino santa m san antonio, tx 782280",
-    "date":"12/17/12",
-    "demerits":3,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361650&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"subway sandwich shop las palmas",
-    "address":"803 castroville rd san antonio, tx 782373148",
-    "date":"12/17/12",
-    "demerits":17,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=189107&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"taqueria el charro de jalisco",
     "address":"2819 zarzamora st s san antonio, tx 78225",
     "date":"12/17/12",
@@ -3444,32 +3290,11 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361653&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"taqueria el tapatio de jalisco",
-    "address":"5527 babcock rd san antonio, tx 782401810",
-    "date":"12/17/12",
-    "demerits":23,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=90660&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"the barbecue station #",
     "address":"1610 loop 410 ne san antonio, tx 782091606",
     "date":"12/17/12",
     "demerits":25,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=100820&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"the childrens shelter",
-    "address":"2939 woodlawn av w san antonio, tx 782285015",
-    "date":"12/17/12",
-    "demerits":3,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361698&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"twain middle school",
-    "address":"2411 san pedro av san antonio, tx 782122833",
-    "date":"12/17/12",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=285498&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"tycoon flats",
@@ -3493,13 +3318,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=87478&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"valero energy corp",
-    "address":"1 valero way san antonio, tx 782490",
-    "date":"12/17/12",
-    "demerits":4,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361622&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"veronicas cafe",
     "address":"760 old hwy 90 w san antonio, tx 782370",
     "date":"12/17/12",
@@ -3512,13 +3330,6 @@
     "date":"12/17/12",
     "demerits":6,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=93033&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"woodlawn elementary",
-    "address":"1717 magnolia av w san antonio, tx 782015416",
-    "date":"12/17/12",
-    "demerits":3,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361639&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"young womens leadership academy",
@@ -3787,13 +3598,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361727&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"taqueria la tapatia",
-    "address":"538 fair av san antonio, tx 78210",
-    "date":"12/18/12",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361738&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"the hanger tavern",
     "address":"14532 brook hollow san antonio, tx 782323810",
     "date":"12/18/12",
@@ -3820,13 +3624,6 @@
     "date":"12/18/12",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361747&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"villa de san antonio",
-    "address":"8103 north hollow san antonio, tx 78240",
-    "date":"12/18/12",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301539&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"wez mart",
@@ -4165,32 +3962,11 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361862&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"taco bell #4362 #",
-    "address":"8288 marbach rd san antonio, tx 782270",
-    "date":"12/20/12",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361901&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"taco bell/kfc #18856 #",
-    "address":"1602 n fm 1604 e san antonio, tx 782320",
-    "date":"12/20/12",
-    "demerits":10,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=93044&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"the sunny side daycare & preschool",
     "address":"2603 thunder gulch bexar county, tx 782450",
     "date":"12/20/12",
     "demerits":3,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361847&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"trisun care cener wurzbach",
-    "address":"8300 wurzbach rd san antonio, tx 782293321",
-    "date":"12/20/12",
-    "demerits":4,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361865&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"tubbys tavern",
@@ -4543,13 +4319,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=349846&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"stephen holmsley",
-    "address":"207 chavaneaux w san antonio, tx 782213902",
-    "date":"1/2/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=119797&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"the aquifer bar",
     "address":"19178 blanco rd san antonio, tx 782580",
     "date":"1/2/13",
@@ -4562,13 +4331,6 @@
     "date":"1/2/13",
     "demerits":9,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=100853&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"tyc ayres halfway house",
-    "address":"17259 nacogdoches rd san antonio, tx 782660",
-    "date":"1/2/13",
-    "demerits":3,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=361982&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"wal-mart #5145",
@@ -5509,13 +5271,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=261018&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"wasabi",
-    "address":"9921 ih 10 w san antonio, tx 78230",
-    "date":"1/7/13",
-    "demerits":21,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=362266&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"wd deli",
     "address":"3123 broadway san antonio, tx 782096718",
     "date":"1/7/13",
@@ -5780,13 +5535,6 @@
     "date":"1/8/13",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=362293&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"storm academy",
-    "address":"435 brady bv san antonio, tx 782078001",
-    "date":"1/8/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=362319&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"storm academy",
@@ -6074,13 +5822,6 @@
     "date":"1/9/13",
     "demerits":3,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=362357&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"stephen holmsley",
-    "address":"207 chavaneaux w san antonio, tx 782213902",
-    "date":"1/9/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=271825&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"taco cabana #114 #",
@@ -6937,13 +6678,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=362479&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"vineyard ranch elementary school",
-    "address":"16818 huebner rd san antonio, tx 782580",
-    "date":"1/11/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=93075&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"vino volo",
     "address":"9800 airport bv san antonio, tx 782164837",
     "date":"1/11/13",
@@ -7525,20 +7259,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=362608&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"the adante",
-    "address":"2702 cembalo blvd san antonio, tx 782300",
-    "date":"1/14/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=362592&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"the adante assisting living community",
-    "address":"2739 cembalo blvd san antonio, tx 782300",
-    "date":"1/14/13",
-    "demerits":11,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=362594&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"the heights at huebner",
     "address":"10127 huebner rd san antonio, tx 782401320",
     "date":"1/14/13",
@@ -7903,13 +7623,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=362634&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"stanley's ice station 12",
-    "address":"6414 wurzbach rd san antonio, tx 782293819",
-    "date":"1/15/13",
-    "demerits":11,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301600&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"starbucks coffee #14192",
     "address":"18154 blanco rd san antonio, tx 782320",
     "date":"1/15/13",
@@ -7943,13 +7656,6 @@
     "date":"1/15/13",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=349901&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"tre trattoria downtown",
-    "address":"401 alamo st s san antonio, tx 782053201",
-    "date":"1/15/13",
-    "demerits":9,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=362670&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"trisun care center lakeside",
@@ -8470,13 +8176,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=362761&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"v's thai cusine",
-    "address":"226 bitters rd w san antonio, tx 782161665",
-    "date":"1/16/13",
-    "demerits":6,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=362759&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"valero corner store #1039 #",
     "address":"16555 huebner rd san antonio, tx 782481032",
     "date":"1/16/13",
@@ -8876,13 +8575,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=381830&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"taco rey",
-    "address":"11825 west av san antonio, tx 782162557",
-    "date":"1/17/13",
-    "demerits":13,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=362785&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"taqueria aguas calientes",
     "address":"15409 white fawn dr san antonio, tx 78255",
     "date":"1/17/13",
@@ -8979,13 +8671,6 @@
     "date":"1/17/13",
     "demerits":12,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=93096&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"zebraz",
-    "address":"1608 main av n san antonio, tx 782124311",
-    "date":"1/17/13",
-    "demerits":3,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=381844&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"alonso perales elementary",
@@ -9308,13 +8993,6 @@
     "date":"1/18/13",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=262028&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"tokyo gardens catering llc #",
-    "address":"10718 potranco rd san antonio, tx 782450",
-    "date":"1/18/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=381913&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"tuesday morning #42",
@@ -9702,13 +9380,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=382033&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"subway restaurant #3018",
-    "address":"8015 callaghan rd san antonio, tx 782304718",
-    "date":"1/22/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=381949&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"subway sandwich shop #",
     "address":"11615 west av san antonio, tx 782131344",
     "date":"1/22/13",
@@ -10064,13 +9735,6 @@
     "date":"1/23/13",
     "demerits":12,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=382166&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"the spice rack deli",
-    "address":"9311 san pedro av san antonio, tx 782164458",
-    "date":"1/23/13",
-    "demerits":3,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=382118&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"vestal elementary",
@@ -10486,13 +10150,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=382172&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"spoon it",
-    "address":"11010 culebra rd san antonio, tx 782530",
-    "date":"1/24/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=382243&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"st vincent de paul senior center",
     "address":"4222 loop 410 sw san antonio, tx 782274445",
     "date":"1/24/13",
@@ -10799,13 +10456,6 @@
     "date":"1/25/13",
     "demerits":3,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=382347&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"taqueria huentitan jalisco #3",
-    "address":"5514 walzem rd san antonio, tx 782182156",
-    "date":"1/25/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=382327&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"taste of orient #",
@@ -11219,13 +10869,6 @@
     "date":"1/28/13",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=90674&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"tgi fridays",
-    "address":"29 loop 410 ne san antonio, tx 782165822",
-    "date":"1/28/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=382579&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"thorton elementary",
@@ -11662,13 +11305,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=382690&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"the little taco house",
-    "address":"741 isom rd san antonio, tx 782164057",
-    "date":"1/29/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=382703&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"walgreens #6336",
     "address":"10718 bandera rd san antonio, tx 782400",
     "date":"1/29/13",
@@ -11919,13 +11555,6 @@
     "date":"1/30/13",
     "demerits":4,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=87550&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"the brown bag gourmet",
-    "address":"11035 wetmore rd san antonio, tx 782164225",
-    "date":"1/30/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=382728&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"tink-a-tako #6",
@@ -13220,13 +12849,6 @@
     "address":"849 commerce st e san antonio, tx 782053910",
     "date":"2/5/13",
     "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390048&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"time out corner store",
-    "address":"849 commerce st e san antonio, tx 782053910",
-    "date":"2/5/13",
-    "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390047&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
@@ -13249,13 +12871,6 @@
     "date":"2/5/13",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=262052&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"woodridge elementary school #",
-    "address":"100 woodridge dr san antonio, tx 782090",
-    "date":"2/5/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390014&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"acts adult day care & activity center",
@@ -13487,13 +13102,6 @@
     "date":"2/6/13",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390067&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"stephen holmsley",
-    "address":"207 chavaneaux w san antonio, tx 782213902",
-    "date":"2/6/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390066&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"sun chinese buffet and mongolian b b q",
@@ -14392,13 +14000,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390322&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"world of beer",
-    "address":"22810 us 281 n san antonio, tx 782590",
-    "date":"2/11/13",
-    "demerits":3,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390322&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"bill miller bbq #38",
     "address":"8811 huebner rd san antonio, tx 78240",
     "date":"2/12/13",
@@ -14700,13 +14301,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=285611&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"taco cabana #112 #",
-    "address":"7339 san pedro av san antonio, tx 782166225",
-    "date":"2/12/13",
-    "demerits":7,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=285611&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"taqueria nuevo vallarta",
     "address":"3451 roosevelt av san antonio, tx 782142605",
     "date":"2/12/13",
@@ -14733,13 +14327,6 @@
     "date":"2/12/13",
     "demerits":3,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390341&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"the turning point",
-    "address":"753 isom rd san antonio, tx 782164057",
-    "date":"2/12/13",
-    "demerits":4,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390447&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"the turning point",
@@ -14873,27 +14460,6 @@
     "date":"2/13/13",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=291821&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"stephen holmsley",
-    "address":"207 chavaneaux w san antonio, tx 782213902",
-    "date":"2/13/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=271917&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"stephen holmsley",
-    "address":"207 chavaneaux w san antonio, tx 782213902",
-    "date":"2/13/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=271917&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"texas ice service",
-    "address":"4102 blanco rd san antonio, tx 782121164",
-    "date":"2/13/13",
-    "demerits":4,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=285617&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"texas ice service",
@@ -15071,13 +14637,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=262082&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"walgreens #3634",
-    "address":"3326 fredsbg rd san antonio, tx 782010",
-    "date":"2/14/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=262082&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"54th street bar and grill",
     "address":"22902 us 281 n san antonio, tx 782590",
     "date":"2/15/13",
@@ -15225,27 +14784,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390772&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"the fruteria y botanero by chef johnny\n  hernandez",
-    "address":"1401 flores st s san antonio, tx 782041618",
-    "date":"2/15/13",
-    "demerits":21,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390642&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"the fruteria y botanero by chef johnny\n  hernandez",
-    "address":"1401 flores st s san antonio, tx 782041618",
-    "date":"2/15/13",
-    "demerits":21,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390642&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"tokyo gardens catering",
-    "address":"1955 nacogdoches rd san antonio, tx 782092217",
-    "date":"2/15/13",
-    "demerits":3,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=101027&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"tokyo gardens catering",
     "address":"1955 nacogdoches rd san antonio, tx 782092217",
     "date":"2/15/13",
@@ -15258,13 +14796,6 @@
     "date":"2/15/13",
     "demerits":15,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390611&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"we r' nutrition",
-    "address":"11817 west av san antonio, tx 782162533",
-    "date":"2/15/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390608&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"we r' nutrition",
@@ -15526,32 +15057,11 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390812&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"taqueria guadalajara",
-    "address":"6402 ih 35 n san antonio, tx 782184405",
-    "date":"2/18/13",
-    "demerits":26,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390812&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"the crazy ape",
     "address":"9930 san pedro av san antonio, tx 782164436",
     "date":"2/18/13",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390585&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"the crazy ape",
-    "address":"9930 san pedro av san antonio, tx 782164436",
-    "date":"2/18/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390585&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"victory fellowship",
-    "address":"1003 38th st sw san antonio, tx 782373326",
-    "date":"2/18/13",
-    "demerits":18,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390847&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"victory fellowship",
@@ -15568,32 +15078,11 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=93178&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"walgreens #4838",
-    "address":"19203 stone oak py san antonio, tx 782580",
-    "date":"2/18/13",
-    "demerits":4,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=93178&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"what's your flavor?",
     "address":"4961 loop 410 nw san antonio, tx 782295346",
     "date":"2/18/13",
     "demerits":14,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301709&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"what's your flavor?",
-    "address":"4961 loop 410 nw san antonio, tx 782295346",
-    "date":"2/18/13",
-    "demerits":14,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301709&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"whataburger",
-    "address":"17311 bulverde rd san antonio, tx 782470",
-    "date":"2/18/13",
-    "demerits":4,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390793&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"whataburger",
@@ -16002,13 +15491,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390970&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"thomas c clark high school",
-    "address":"5150 de zavala rd san antonio, tx 782302027",
-    "date":"2/19/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390923&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"timewise food store #1601 #",
     "address":"1203 roosevelt av san antonio, tx 782103854",
     "date":"2/19/13",
@@ -16035,20 +15517,6 @@
     "date":"2/19/13",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301714&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"walgreens #2955",
-    "address":"1630 bandera rd san antonio, tx 78228",
-    "date":"2/19/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301714&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"wendys #4 #",
-    "address":"2343 military dr sw san antonio, tx 782241406",
-    "date":"2/19/13",
-    "demerits":3,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=291835&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"wendys #4 #",
@@ -16352,32 +15820,11 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=291839&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"starbucks coffee #14717",
-    "address":"1935 military dr sw san antonio, tx 782211434",
-    "date":"2/20/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=291839&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"subway # 41651",
     "address":"2606 tpc parkway san antonio, tx 78259",
     "date":"2/20/13",
     "demerits":6,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390595&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"subway # 41651",
-    "address":"2606 tpc parkway san antonio, tx 78259",
-    "date":"2/20/13",
-    "demerits":6,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=390595&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"subway # 43817",
-    "address":"1503 pleasanton rd san antonio, tx 782211147",
-    "date":"2/20/13",
-    "demerits":10,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=291838&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"subway # 43817",
@@ -16401,20 +15848,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301720&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"subway sandwich shop #",
-    "address":"5545 loop 410 nw san antonio, tx 782381825",
-    "date":"2/20/13",
-    "demerits":7,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301720&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"subway sandwich shop #3421",
-    "address":"1582 babcock rd san antonio, tx 782294724",
-    "date":"2/20/13",
-    "demerits":5,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301717&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"subway sandwich shop #3421",
     "address":"1582 babcock rd san antonio, tx 782294724",
     "date":"2/20/13",
@@ -16434,13 +15867,6 @@
     "date":"2/20/13",
     "demerits":3,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=391040&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"west ave apartments community cente #",
-    "address":"3747 west av #17san antonio, tx 78213",
-    "date":"2/20/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=262092&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"west ave apartments community cente #",
@@ -16828,13 +16254,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=271946&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"ssisd commodity warehouse",
-    "address":"1610 martinez lsoya bexar county, tx 782219613",
-    "date":"2/21/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=271946&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"st teresa convent",
     "address":"138 fair av san antonio, tx 782230",
     "date":"2/21/13",
@@ -16898,13 +16317,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=261115&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"vfw #7108",
-    "address":"8705 fm 1560 n bexar county, tx 782540",
-    "date":"2/21/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=261115&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"whataburger #327",
     "address":"11003 nw military hy san antonio, tx 782300",
     "date":"2/21/13",
@@ -16924,20 +16336,6 @@
     "date":"2/21/13",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=271947&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"wm pearce elementary school",
-    "address":"1610 martinez lsoya bexar county, tx 782219613",
-    "date":"2/21/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=271947&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"x-treme gaming",
-    "address":"5450 babcock rd san antonio, tx 782403948",
-    "date":"2/21/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301724&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"x-treme gaming",
@@ -17609,13 +17007,6 @@
     "address":"4538 vance jackson san antonio, tx 782305325",
     "date":"2/25/13",
     "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=391333&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"will jackson middle school",
-    "address":"4538 vance jackson san antonio, tx 782305325",
-    "date":"2/25/13",
-    "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=391346&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
@@ -17945,13 +17336,6 @@
     "address":"2310 babcock rd san antonio, tx 782404804",
     "date":"2/26/13",
     "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301740&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"timewise food store #8401 #",
-    "address":"2310 babcock rd san antonio, tx 782404804",
-    "date":"2/26/13",
-    "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=301739&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
@@ -18261,13 +17645,6 @@
     "date":"2/27/13",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=405802&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"tokyo gardens catering",
-    "address":"8219 marbach rd san antonio, tx 782450",
-    "date":"2/27/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=391534&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"towne place suites marriot",
@@ -19367,13 +18744,6 @@
     "date":"3/7/13",
     "demerits":0,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=394825&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"st matthews catholic school",
-    "address":"10703 wurzbach rd san antonio, tx 782302431",
-    "date":"3/7/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=405810&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"starbucks coffee #9501",
@@ -22337,13 +21707,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=395617&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"tortilleria la tradicional",
-    "address":"115 main plaza san antonio, tx 782050",
-    "date":"3/19/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=431826&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"valero corner store # 921 #",
     "address":"819 mulberry av e san antonio, tx 782123151",
     "date":"3/19/13",
@@ -24001,13 +23364,6 @@
     "date":"3/26/13",
     "demerits":7,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=433855&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"tortilleria la tradicional",
-    "address":"115 main plaza san antonio, tx 782050",
-    "date":"3/26/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=431823&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"valero corner store #2291 #",
@@ -26115,13 +25471,6 @@
     "date":"4/2/13",
     "demerits":20,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=433865&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"tortilleria la tradicional",
-    "address":"115 main plaza san antonio, tx 782050",
-    "date":"4/2/13",
-    "demerits":0,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=431844&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"valero corner store #40 #",
@@ -28490,13 +27839,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=445887&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"st lukes family center",
-    "address":"4603 manitou dr san antonio, tx 782281835",
-    "date":"4/10/13",
-    "demerits":3,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=462868&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"st lukes school",
     "address":"4603 manitou dr san antonio, tx 782281835",
     "date":"4/10/13",
@@ -30625,13 +29967,6 @@
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=468073&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
-    "name":"wingstop restaurant #",
-    "address":"5410 walzem rd san antonio, tx 782182125",
-    "date":"4/18/13",
-    "demerits":8,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=463284&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
     "name":"wok inn",
     "address":"8733 grissom rd san antonio, tx 782504820",
     "date":"4/18/13",
@@ -31694,13 +31029,6 @@
     "date":"4/30/13",
     "demerits":3,
     "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=468205&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
-  },
-  {
-    "name":"spicy ginger asian cafe",
-    "address":"8806 bandera rd san antonio, tx 782400",
-    "date":"4/30/13",
-    "demerits":3,
-    "link":"http://samhd.tx.gegov.com/webadmin/dhd_134/paper/_paper_inspection_food.cfm?inspectionid=467862&parenttablename=tblinspection&dsn=dhd_134&&domainid=134&wguid=1367&wgunm=sysact&wgdmn=134"
   },
   {
     "name":"step n go (ffp #3377)",
