@@ -18,7 +18,7 @@ class CreateRestaurants extends Migration {
 			$table->string('name', 100);
 			$table->string('address', 100);
 			$table->integer('zip')->unsigned();
-			//$table->unique(array('name', 'address'));
+			// $table->unique(array('name', 'address'));
 			$table->timestamps();
 		});
 	}
