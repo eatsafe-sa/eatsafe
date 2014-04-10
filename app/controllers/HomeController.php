@@ -37,9 +37,10 @@ class HomeController extends BaseController {
 
 	public function doLogin()
 	{
+		var_dump(Input::get('email'));
 		if (Auth::attempt(array('email' => Input::get('email'), 'password' => Input::get('password'))))
 		{
-		    return Redirect::intended('');
+		    return Redirect::intended('/');
 
 		}
 		else
