@@ -27,18 +27,20 @@ class HomeController extends BaseController {
 
 	}
 
-		public function showLogin()
+
+	public function showLogin()
 	{
 		return View::make('login');
+	}
 
-    }
+
 
 	public function doLogin()
 	{
 		if (Auth::attempt(array('email' => Input::get('email'), 'password' => Input::get('password'))))
 		{
-
 		    return Redirect::intended('');
+
 		}
 		else
 		{
@@ -55,7 +57,6 @@ class HomeController extends BaseController {
 
 
 	}
-
 	
 
 }
