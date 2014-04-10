@@ -9,10 +9,10 @@ Create a file named `.env.local.php` with this data, updated with your info:
 
 return array(
 
-	$_ENV['DB_HOST'] => 'localhost',
-	$_ENV['DB_NAME'] => 'eatsafe',
-	$_ENV['DB_USER'] => 'codeup',
-	$_ENV['DB_PASS'] => 'password',
+	'DB_HOST' => 'localhost',
+	'DB_NAME' => 'eatsafe',
+	'DB_USER' => 'codeup',
+	'DB_PASS' => 'password',
 
 );
 ```
