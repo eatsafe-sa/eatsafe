@@ -20,30 +20,24 @@ class HomeController extends BaseController {
 		return View::make('hello');
 	}
 
-<<<<<<< HEAD
+
 	public function showMap()
 	{
 		return View::make('map');
 
 	}
 
-		public function showLogin()
-	{
-		return View::make('login');
-
-=======
 	public function showLogin()
 	{
 		return View::make('login');
->>>>>>> 12dffcdc4d33cf378766340266b4272866a9cdb4
 	}
 
 	public function doLogin()
 	{
 		if (Auth::attempt(array('email' => Input::get('email'), 'password' => Input::get('password'))))
 		{
-<<<<<<< HEAD
-		    return Redirect::intended('/posts');
+
+		    return Redirect::intended('/main');
 		}
 		else
 		{
@@ -56,10 +50,10 @@ class HomeController extends BaseController {
 	public function Logout()
 	{
 		Auth::logout();
-		return Redirect::action('PostsController@index');
+		return Redirect::action('HomeController@index');
 
-=======
-		    return Redirect::intended('/blog');
+
+		    return Redirect::intended('/main');
 		}
 		else
 		{
@@ -71,8 +65,7 @@ class HomeController extends BaseController {
 	public function logout()
 	{
 		Auth::logout();
-		return Redirect::action('PostsController@index');
->>>>>>> 12dffcdc4d33cf378766340266b4272866a9cdb4
+		return Redirect::action('HomeController@index');
 	}
 
 }
