@@ -3,16 +3,23 @@
 	src: url("http://s.cdpn.io/26175/Museo300-Regular.otf") format("opentype");
 }
 
-body { background-color:#000; }
+body { 
+  background-color:#000; 
+}
+
 .neon {
   text-align: center;
-  margin: 200px auto;
+  /*margin: 200px auto;*/
   font-family: "Museo";
-  font-size: 200px;
+  font-size: 72pt;
   text-transform: uppercase;
   color: #fff;
   -webkit-animation:pulse 1.5s ease-in-out infinite alternate;
   -webkit-backface-visibility: hidden;
+}
+
+#mapDisplay {
+  margin-top: 50px;
 }
 
 @-webkit-keyframes pulse {

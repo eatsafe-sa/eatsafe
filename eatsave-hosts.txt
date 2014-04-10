@@ -1,0 +1,14 @@
+<VirtualHost *:80>
+
+    # host/domain name for server
+    ServerName      eatsafe-sa.dev
+
+    # path to public directory
+    DocumentRoot    /vagrant/sites/eatsafe-sa.dev/public
+
+    # allow custom directives in htaccess
+    <Directory /vagrant/sites/eatsafe-sa.dev/public>
+        AllowOverride All
+    </Directory>
+
+</VirtualHost>
