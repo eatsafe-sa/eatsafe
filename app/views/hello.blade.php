@@ -18,6 +18,7 @@
                 <li class="active"><a href="#">Home</a></li>
                 <li><a href="{{{ action('HomeController@showMap')}}}">Map</a></li>
                 <li><a href="#">Contact</a></li>
+                <li><a href="{{{ action('HomeController@showLogin')}}}">Login</a></li>
               </ul>
             </div>
           </div>
