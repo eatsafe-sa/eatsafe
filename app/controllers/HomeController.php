@@ -58,6 +58,10 @@ class HomeController extends BaseController {
 
 
 	}
+	public function showTeam()
+	{
+		return View::make('team');
+	}
 	
 
 }
