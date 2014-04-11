@@ -18,7 +18,7 @@ class CreateInspections extends Migration {
 			$table->increments('id');
 			$table->string('last_date', 25);
 			$table->integer('demerits');
-			$table->string('url', 100);
+			$table->string('url', 500);
 			$table->timestamps();
 		});
 	}
