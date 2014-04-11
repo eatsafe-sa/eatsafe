@@ -5,8 +5,7 @@
 <div class="container">
 	<div class="row-fluid">
         <div class="span8" id="mapDisplay">
-        	<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?f=q&source=s_q&hl=en&geocode=&q=15+Springfield+Way,+Hythe,+CT21+5SH&aq=t&sll=52.8382,-2.327815&sspn=8.047465,13.666992&ie=UTF8&hq=&hnear=15+Springfield+Way,+Hythe+CT21+5SH,+United+Kingdom&t=m&z=14&ll=51.077429,1.121722&output=embed"></iframe>
-    	</div>
+        	<iframe width="1200" height="800" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col2%3E%3E0+from+1oBDUUX1Loe1L5paQ4DVypZJmZ-WORPaqIqIx3KAC&amp;viz=MAP&amp;h=false&amp;lat=29.586718594261416&amp;lng=-98.44934584965813&amp;t=1&amp;z=9&amp;l=col2%3E%3E0&amp;y=2&amp;tmplt=2&amp;hml=GEOCODABLE"></iframe></div>
     </div>
 </div>@stop
 
