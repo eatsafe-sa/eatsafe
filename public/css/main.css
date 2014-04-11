@@ -18,6 +18,11 @@ body {
   -webkit-backface-visibility: hidden;
 }
 
+.profile-pic {
+  height: 200px;
+  width: 200px;
+}
+
 #mapDisplay {
   margin-top: 50px;
 }
