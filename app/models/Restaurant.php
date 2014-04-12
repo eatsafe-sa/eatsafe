@@ -19,21 +19,21 @@ class Restaurant extends Eloquent
 
 	public function setNameAttribute($value)
 	{
-		$this->attributes['name'] = strtolower($value);
+		$this->attributes['name'] = ucwords($value);
 	}
 
 	public function getNameAttribute()
 	{
-		return ucfirst($this->attributes['name']);
+		return ucwords($this->attributes['name']);
 	}
 
 	public function setAddressAttribute($value)
 	{
-		$this->attributes['address'] = strtolower($value);
+		$this->attributes['address'] = ucwords($value);
 	}
 
 	public function getAddressAttribute()
 	{
-		return ucfirst($this->attributes['address']);
+		return ucwords($this->attributes['address']);
 	}
 }
