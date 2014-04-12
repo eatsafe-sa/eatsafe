@@ -4,18 +4,23 @@
 }
 
 body { 
-  background-color:#000; 
+  background-image:-webkit-radial-gradient(#222, #444);; 
+  height: 100%;
+  padding-bottom: 70px;
 }
 
 .neon {
   text-align: center;
   /*margin: 200px auto;*/
   font-family: "Museo";
-  font-size: 72pt;
   text-transform: uppercase;
   color: #fff;
   -webkit-animation:pulse 1.5s ease-in-out infinite alternate;
   -webkit-backface-visibility: hidden;
+}
+
+#coverPage {
+  font-size: 72pt;
 }
 
 .profile-pic {
@@ -24,7 +29,9 @@ body {
 }
 
 #mapDisplay {
-  margin-top: 50px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  overflow: hidden;
 }
 
 @-webkit-keyframes pulse {
