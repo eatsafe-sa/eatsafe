@@ -2,7 +2,7 @@
 
 @section('topscript')
 	<link rel="stylesheet" href="/css/signin.css" />
-
+@include('layouts.nav')
 @section('content')
 {{ Form::open(array('method' => 'post', 'action' => 'HomeController@doLogin', 'class' => 'form-signin')) }}
     <h2 class="form-signin-heading">Admin Login</h2>

@@ -54,7 +54,7 @@ class HomeController extends BaseController {
 	public function logout()
 	{
 		Auth::logout();
-		return Redirect::action('HomeController@showMap');
+		return Redirect::action('HomeController@showWelcome');
 
 
 	}
