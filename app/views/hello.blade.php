@@ -12,18 +12,6 @@
 
         <div class="cover-container">
 
-          <div class="masthead clearfix">
-            <div class="inner">
-              <h3 class="masthead-brand">Eat Safe - SA</h3>
-              <ul class="nav masthead-nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="{{{ action('HomeController@showMap')}}}">Map</a></li>
-                <li><a href="#">Contact</a></li>
-                <li><a href="{{{ action('HomeController@showLogin')}}}">Login</a></li>
-              </ul>
-            </div>
-          </div>
-
           <div class="inner cover">
             <h1 class="cover-heading neon" id="coverPage">EAT SAFE<br /><i class="fa fa-cutlery"></i>
                &nbsp;SA &nbsp;<i class="fa fa-cutlery"></i></h1>

@@ -1,12 +1,10 @@
 @extends('layouts.main')
 
-
+@include('layouts.nav')
 @section('content')
 <div class="container">
 	<div class="row-fluid">
         <div class="col-sm-12" id="mapDisplay">
-        	<h2 class="neon">EAT SAFE SAN ANTONIO <i class="fa fa-cutlery"></i></h2>
-
         	<iframe width="100%" height="750px" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col2%3E%3E0+from+127pdLz4L21X9TuAv4uxYiZPf2EuzmplpC6Sr5WJA&amp;viz=MAP&amp;h=false&amp;lat=30.21076735631892&amp;lng=-98.72657897343743&amp;t=1&amp;z=7&amp;l=col2%3E%3E0&amp;y=2&amp;tmplt=2&amp;hml=GEOCODABLE"></iframe>
         </div>
     </div>
