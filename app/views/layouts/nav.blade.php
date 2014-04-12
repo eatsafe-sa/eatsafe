@@ -12,7 +12,7 @@
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
-    
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="{{ action('HomeController@showMap')}}">The Map</a></li>
         <li><a href="{{ action('HomeController@showTeam')}}">The Team</a></li>
