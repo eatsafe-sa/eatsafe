@@ -15,15 +15,16 @@
           <div class="inner cover">
             <h1 class="cover-heading neon" id="coverPage">EAT SAFE<br /><i class="fa fa-cutlery"></i>
                &nbsp;SA &nbsp;<i class="fa fa-cutlery"></i></h1>
-            <p class="lead">Here is some text about how cool the app is.  We don't go into great depth about this.</p>
+            <p class="lead front-copy">San Antonio area restaurants with real public health inspection data 
+              to help you make more informed choices for your San Antonio dining experience.</p>
             <p class="lead">
-              <a href="#" class="btn btn-lg btn-default">Click for Stuff</a>
+              <a href="/map" class="btn btn-lg btn-default">Find a Safe Spot to Eat</a>
             </p>
           </div>
 
           <div class="mastfoot">
             <div class="inner">
-              <p>Footer stuff goes here</p>
+              <p><span class="glyphicon glyphicon-copyright-mark"></span>&nbsp;2014 Flamoreyna Productions</p>
             </div>
           </div>
 
