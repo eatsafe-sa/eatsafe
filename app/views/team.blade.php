@@ -22,7 +22,7 @@
           <img class="img-circle profile-pic" src="/img/mario.jpg" alt="Generic placeholder image">
           <h2>Mario</h2>
           <p class="text-justify">Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/mariom1231" target="_blank" ><i class="fa fa-github-alt"></i></a>
+          <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/mariom1231" target="_blank"><i class="fa fa-github-alt"></i></a>
           <a class="btn btn-social-icon btn-lg btn-linkedin" href="http://www.linkedin.com/in/mariom1231/" target="_blank"><i class="fa fa-linkedin"></i></a>
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-4">
