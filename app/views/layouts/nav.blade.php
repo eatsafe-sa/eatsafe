@@ -19,7 +19,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">The Admins <i class="fa fa-arrow-down"></i></a>
           <ul class="dropdown-menu">
-            <li><a href="{{ action('HomeController@showLogin')}}">Login</a></li>
+            <li><a href="#" data-toggle="modal" data-target="#loginModal">Login</a></li>
             <li><a href="#">Contact Us</a></li>
             <li class="divider"></li>
             
@@ -27,7 +27,43 @@
             
           </ul>
         </li>
+        @if(Auth::check())
+          <li><p class="navbar-text navbar-right">Signed in as {{ Auth::user()->email }} &nbsp;</p></li>
+        @endif
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+<div id="loginModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+     <div class="modal-content">
+     <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+      <h1 class="text-center">Login</h1>
+    </div>
+
+    <div class="modal-body">
+      {{ Form::open(array('method' => 'post', 'action' => 'HomeController@doLogin', 'class' => 'form-signin')) }}
+      <h2 class="form-signin-heading">Admin Login</h2>
+      {{ Form::text('email', $value = null, $attributes = array ('placeholder' => 'E-Mail Address','class' => 'requiredField form-control','autofocus' => 'autofocus'))}}
+      {{ Form::password('password', array ('placeholder' => 'Password','class' => 'requiredField form-control'))}}
+      <label class="checkbox">
+        {{ Form::checkbox('remember-me', 0, null)}}Remember Me
+      </label>
+      <hr>
+      <button class="btn btn-lg btn-success btn-block" type="submit">Login</button>
+    {{ Form::close() }}
+    </div>
+   <div class="modal-footer">
+     <div class="col-md-12">
+       <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+     </div>    
+   </div>
+ </div>
+</div>
+</div>
+
+   
+
+
+
