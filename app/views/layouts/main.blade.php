@@ -21,6 +21,8 @@
     <link href="/css/main.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/social.css" />
+    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css"/>
+
 
 
     <!-- Bootstrap core JavaScript
@@ -29,6 +31,9 @@
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/moment.js"></script>
+    <script src="/js/jquery.address-1.5.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>
+
     @yield('topscript')
  </head>
  <body>

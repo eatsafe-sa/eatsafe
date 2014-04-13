@@ -22,9 +22,9 @@
             <li><a href="#" data-toggle="modal" data-target="#loginModal">Login</a></li>
             <li><a href="#">Contact Us</a></li>
             <li class="divider"></li>
-            
+            @if(Auth::check())
             <li><a href="{{ action('HomeController@logout')}}">Logout</a></li>
-            
+            @endif
           </ul>
         </li>
         @if(Auth::check())
