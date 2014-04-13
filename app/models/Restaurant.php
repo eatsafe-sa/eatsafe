@@ -13,7 +13,7 @@ class Restaurant extends Eloquent
 
 	public static $rules = array(
 	    'name' => 'required|max:100',
-	    'address' => 'required|max:100',
+	    'address' => 'required|max:200',
 	    'zip' => 'required|min:5'
 	);
 
