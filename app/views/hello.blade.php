@@ -15,8 +15,7 @@
           <div class="inner cover">
             <h1 class="cover-heading neon" id="coverPage">EAT SAFE<br /><i class="fa fa-cutlery"></i>
                &nbsp;SA &nbsp;<i class="fa fa-cutlery"></i></h1>
-            <p class="lead front-copy">San Antonio area restaurants with real public health inspection data 
-              to help you make more informed choices for your San Antonio dining experience.</p>
+            <p class="lead front-copy">Searchable map of the San Antonio area, providing actual city health inspection data to help you make more informed choices for your dining experience.</p>
             <p class="lead">
               <a href="/map" class="btn btn-lg btn-default">Find a Safe Spot to Eat</a>
             </p>
