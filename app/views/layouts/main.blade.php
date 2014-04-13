@@ -29,6 +29,7 @@
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/moment.js"></script>
+    <script src="/js/jquery.address-1.5.min.js"></script>
     @yield('topscript')
  </head>
  <body>
