@@ -73,6 +73,22 @@ var MapsLib = {
     $("#result_box").hide();
     
     //-----custom initializers-------
+
+    $("#demerit-slider").slider({
+    orientation: "horizontal",
+    range: true,
+    min: 0,
+    max: 100,
+    values: [0, 100],
+    step: 5,
+    slide: function (event, ui) {
+        $("#demerit-selected-start").html(ui.values[0]);
+        $("#demerit-selected-end").html(ui.values[1]);
+    },
+    stop: function(event, ui) {
+      MapsLib.doSearch();
+    }
+});
     
     //-----end of custom initializers-------
 
