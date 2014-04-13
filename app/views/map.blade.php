@@ -36,7 +36,7 @@
             </p>
             <p>
               <label>
-                within
+                Within: 
                 <select id='search_radius'>
                   <option value='400'>2 blocks</option>
                   <option value='805'>1/2 mile</option>
@@ -46,27 +46,40 @@
               </label>
             </p>
 
-            <br />
-            <h4>Custom filters and views</h4>
-            <p>Take a look at the <a href='https://github.com/derekeder/FusionTable-Map-Template/wiki/Filter-examples'>wiki</a> to see how to add your own custom filters and views like:</p>
-            <div class='row'>
-              <div class='col-md-6'>
-                <ul>
-                  <li><a href='https://github.com/derekeder/FusionTable-Map-Template/wiki/Filter-examples#wiki-checkboxes'>Checkboxes</a></li>
-                  <li><a href='https://github.com/derekeder/FusionTable-Map-Template/wiki/Filter-examples#wiki-radiobuttons'>Radio buttons</a></li>
-                  <li><a href='https://github.com/derekeder/FusionTable-Map-Template/wiki/Filter-examples#wiki-drop-down-lists'>Drop down lists</a></li>
-                  <li><a href='https://github.com/derekeder/FusionTable-Map-Template/wiki/Filter-examples#wiki-textsearches'>Text searches</a></li>
-                </ul>
-              </div>
-              <div class='col-md-6'>
-                <ul>
-                  <li><a href='https://github.com/derekeder/FusionTable-Map-Template/wiki/Filter-examples#wiki-sliders'>Sliders</a></li>
-                  <li><a href='https://github.com/derekeder/FusionTable-Map-Template/wiki/Filter-examples#wiki-date-sliders'>Date sliders</a></li>
-                  <li><a href='https://github.com/derekeder/FusionTable-Map-Template/wiki/List-search-results'>Results lists</a></li>
-                </ul>
-              </div>
-            </div>
-            <br />
+			<hr />
+			<p>
+				<h4>Restaurant Name </h4>
+				<input class='form-control' id='text_search' placeholder="Enter a Restaurant" type='text' />
+            </p>
+			<hr />
+			<p>
+            <h4>Search by Region</h4>
+			<label>
+				<select id='select_type'>
+				  <option value=''>All of San Antonio</option>
+				  <option value='1'>Downtown</option>
+				  <option value='2'>East Side</option>
+				  <option value='3'>Northeast Side</option>
+				  <option value='4'>Northwest Side</option>
+				  <option value='5'>Inner West</option>
+				  <option value='6'>South Side</option>
+				  <option value='7'>North Side</option>
+				  <option value='8'>Southtown</option> 
+				  <option value='9'>Far West</option>
+				  <option value='10'>Uptown</option> 
+				  <option value='11'>Far North</option> 
+				</select><br />
+            </p>
+            <hr />
+            <p>
+            	<h4>Demerits: <small>
+			    <span id='demerit-selected-start'>0</span> - <span id='demerit-selected-end'>100</span>
+			  </small>
+				</h4>
+				<div id='demerit-slider'></div>
+				<span class='pull-left'>0</span>
+				<span class='pull-right'>100</span>
+				</p><br /><hr />
             <a class='btn btn-primary' id='search' href='#'>
               <i class='glyphicon glyphicon-search'></i>
               Search
