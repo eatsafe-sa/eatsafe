@@ -71,24 +71,30 @@ var MapsLib = {
     else $("#search_radius").val(MapsLib.searchRadius);
     $(":checkbox").prop("checked", "checked");
     $("#result_box").hide();
+    $('#demerit-selected-start').html(0);
+    $('#demerit-selected-end').html(60);
     
     //-----custom initializers-------
 
     $("#demerit-slider").slider({
-    orientation: "horizontal",
-    range: true,
-    min: 0,
-    max: 100,
-    values: [0, 100],
-    step: 5,
-    slide: function (event, ui) {
-        $("#demerit-selected-start").html(ui.values[0]);
-        $("#demerit-selected-end").html(ui.values[1]);
-    },
-    stop: function(event, ui) {
-      MapsLib.doSearch();
-    }
-});
+      orientation: "horizontal",
+      range: true,
+      min: 0,
+      max: 60,
+      values: [0, 60],
+      step: 1,
+      slide: function (event, ui) {
+          $("#demerit-selected-start").html(ui.values[0]);
+          $("#demerit-selected-end").html(ui.values[1]);
+      },
+      stop: function(event, ui) {
+        MapsLib.doSearch();
+      }
+    });
+
+    $("#text_search").val("");
+
+
     
     //-----end of custom initializers-------
 
@@ -99,11 +105,31 @@ var MapsLib = {
   doSearch: function(location) {
     MapsLib.clearSearch();
     var address = $("#search_address").val();
+    var text_search = $("#text_search").val().replace("'", "\\'");
+
+    
     MapsLib.searchRadius = $("#search_radius").val();
 
     var whereClause = MapsLib.locationColumn + " not equal to ''";
 
     //-----custom filters-------
+    if (text_search != '') {
+      whereClause += " AND 'name' CONTAINS IGNORING CASE '" + text_search + "'";
+    }
+
+    whereClause += " AND 'demerits' >= '" + $("#demerit-selected-start").html() + "'";
+    whereClause += " AND 'demerits' <= '" + $("#demerit-selected-end").html() + "'";
+   
+    // ------- future neighborhood selectors ---------
+
+    // if ( $("#select_type").val() != "") {
+
+    //  if ($("#select_type").val() == "1") {
+    //   whereClause += " AND 'zip' = '" + parseInt(areas[0][0]) + '\'"';
+    //   whereClause += " AND 'zip' = '" + parseInt(areas[0][1]) + '\'"';
+      
+    //  }
+    // }
 
     //-------end of custom filters--------
 
@@ -141,6 +167,7 @@ var MapsLib = {
     else { //search without geocoding callback
       MapsLib.submitSearch(whereClause, map);
     }
+
   },
 
   submitSearch: function(whereClause, map, location) {
