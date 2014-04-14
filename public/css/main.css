@@ -20,6 +20,16 @@ body {
   -webkit-backface-visibility: hidden;
 }
 
+#missing-head {
+  font-size: 35pt;
+  color: #000; 
+}
+
+#missing-message {
+  font-size: 45pt;
+  color: #000; 
+}
+
 #coverPage {
   font-size: 72pt;
 }
