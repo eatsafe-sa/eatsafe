@@ -80,7 +80,7 @@
 				<span class='pull-left'>0</span>
 				<span class='pull-right'>100</span>
 				</p><br /><hr />
-            <a class='btn btn-primary' id='search' href='#'>
+            <a class='btn btn-success' id='search' href='#'>
               <i class='glyphicon glyphicon-search'></i>
               Search
             </a>
@@ -99,9 +99,7 @@
             </div>
           </noscript>
           <div id='map_canvas'></div>
-          <p class='pull-right'>
-            <a href='http://derekeder.com/searchable_map_template/'>Searchable Map Template</a> by <a href='http://derekeder.com'>Derek Eder</a>.
-        </p>
+          
         </div>
       </div>
     </div>
