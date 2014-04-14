@@ -52,7 +52,8 @@
 				<input class='form-control' id='text_search' placeholder="Enter a Restaurant" type='text' />
             </p>
 			<hr />
-			<p>
+			<!-- Future select by neighborhood feature -->
+			<!-- <p>
             <h4>Search by Region</h4>
 			<label>
 				<select id='select_type'>
@@ -69,16 +70,16 @@
 				  <option value='10'>Uptown</option> 
 				  <option value='11'>Far North</option> 
 				</select><br />
-            </p>
+            </p> -->
             <hr />
             <p>
             	<h4>Demerits: <small>
-			    <span id='demerit-selected-start'>0</span> - <span id='demerit-selected-end'>100</span>
+			    <span id='demerit-selected-start'>0</span> - <span id='demerit-selected-end'>60</span>
 			  </small>
 				</h4>
 				<div id='demerit-slider'></div>
 				<span class='pull-left'>0</span>
-				<span class='pull-right'>100</span>
+				<span class='pull-right'>60</span>
 				</p><br /><hr />
             <a class='btn btn-success' id='search' href='#'>
               <i class='glyphicon glyphicon-search'></i>
@@ -111,6 +112,7 @@
     <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&libraries=places&v=3.14"></script>
     <script type="text/javascript" src="js/jquery.geocomplete.min.js"></script>
     <script type="text/javascript" src="js/maps_lib.js"></script>
+    <script type="text/javascript" src="js/areas.js"></script>
     <script type='text/javascript'>
       //<![CDATA[
         $(window).resize(function () {
