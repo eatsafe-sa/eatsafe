@@ -5,7 +5,7 @@
 <style type="text/css">
 	body {
 		  
-		  background-image: url('/img/testchef2.jpg');
+		  background-image: url('/img/roach.jpg');
 		  background-size: cover;
 		  color: #000;
 		}
@@ -13,6 +13,9 @@
 		color: #000;
 		background-color: #000;
 		height: 3px;
+	}
+	.btn-roach {
+		background: radial-gradient(#000, #333);
 	}
 
 </style>
@@ -23,13 +26,14 @@
 	<div class="site-wrapper-inner">
 		<div class="cover-container">
 			<div class="inner cover">
-	<h1 id='missing-head' class='text-center'>This is not the page you're looking for!!</h1>
+				<hr>
+	<h1 id='missing-head' class='text-center'>This site did not pass inspection.</h1>
 	<h2 id="missing-message">
-		404: page not found!! :(
+		404: Page Not Found. <i class="fa fa-frown-o"></i>
 	</h2>
 	<hr>
 	<p class="lead">
-		<a class="btn btn-lg btn-primary" href="{{ URL::previous() }}">Go Back</a>
+		<a class="btn btn-lg btn-roach" href="{{ URL::previous() }}">Go Back</a>
 	</p>
 </div>
 </div>
