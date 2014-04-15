@@ -27,7 +27,8 @@
 				<div class="form-group">	
 				{{ Form::text('name', $value = null, $attributes = array (
 					'placeholder' => 'Name *',
-					'class' => 'form-control'
+					'class' => 'form-control',
+					'autofocus' => 'autofocus'
 				))}}
 				</div>
 				<div class="form-group">

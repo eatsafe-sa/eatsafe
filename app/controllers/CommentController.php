@@ -14,14 +14,14 @@ class CommentController extends \BaseController {
 		parent::__construct();
 
 		// Run an auth filter before all methods except index and show
-		$this->beforeFilter('auth', ['except' => ['create']]);
+		$this->beforeFilter('auth', ['except' => ['create', 'store']]);
 		$this->beforeFilter('admin', ['only' => ['edit', 'destroy']]);
 	}
 
 	public function index()
 	{
 		//
-		$comments = Comment::orderBy('created_at', 'desc')->paginate(5);
+		$comments = Comment::orderBy('created_at', 'desc')->paginate(4);
 		return View::make('comments.index')->with('comments', $comments);
 	}
 

@@ -39,14 +39,15 @@
     @yield('topscript')
  </head>
  <body>
+    <div class="errors">
+        @if (Session::has('successMessage'))
+            <div class="alert alert-success" style="color:black; font-size:16pt;">{{{ Session::get('successMessage') }}}</div>
+        @endif
+        @if (Session::has('errorMessage'))
+            <div class="alert alert-danger" style="color:black; font-size:16pt;">{{{ Session::get('errorMessage') }}}</div>
+        @endif
+    </div>
     @yield('content')
-    @if (Session::has('successMessage'))
-            <div class="alert alert-success">{{{ Session::get('successMessage') }}}</div>
-          @endif
-          @if (Session::has('errorMessage'))
-            <div class="alert alert-danger">{{{ Session::get('errorMessage') }}}</div>
-          @endif
-
     @yield('bottomscript')
 </body>
 </html>
