@@ -12,6 +12,7 @@
 
         <div class="cover-container">
 
+
           <div class="inner cover">
             <h1 class="cover-heading neon" id="coverPage">EAT SAFE<br /><i class="fa fa-cutlery"></i>
                &nbsp;SA &nbsp;<i class="fa fa-cutlery"></i></h1>
@@ -20,6 +21,12 @@
               <a href="/map" class="btn btn-lg btn-default">Find a Safe Spot to Eat</a>
             </p>
           </div>
+          @if (Session::has('successMessage'))
+            <div class="alert alert-success">{{{ Session::get('successMessage') }}}</div>
+          @endif
+          @if (Session::has('errorMessage'))
+            <div class="alert alert-danger">{{{ Session::get('errorMessage') }}}</div>
+          @endif
 
           <div class="mastfoot">
             <div class="inner">
