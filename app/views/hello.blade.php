@@ -21,12 +21,12 @@
               <a href="/map" class="btn btn-lg btn-default">Find a Safe Spot to Eat</a>
             </p>
           </div>
-          @if (Session::has('successMessage'))
+         <!--  @if (Session::has('successMessage'))
             <div class="alert alert-success">{{{ Session::get('successMessage') }}}</div>
           @endif
           @if (Session::has('errorMessage'))
             <div class="alert alert-danger">{{{ Session::get('errorMessage') }}}</div>
-          @endif
+          @endif -->
 
           <div class="mastfoot">
             <div class="inner">
