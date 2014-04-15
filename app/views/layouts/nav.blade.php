@@ -20,8 +20,10 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">The Admins <i class="fa fa-arrow-down"></i></a>
           <ul class="dropdown-menu">
+            @if(!Auth::check())
             <li><a href="#" data-toggle="modal" data-target="#loginModal">Login</a></li>
             <li><a href="{{ action('CommentController@create')}}">Contact Us</a></li>
+            @endif
             <li class="divider"></li>
             @if(Auth::check())
             <li><a href="{{ action('CommentController@index')}}">View Feedback</a></li>
