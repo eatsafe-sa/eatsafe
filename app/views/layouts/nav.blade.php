@@ -16,13 +16,15 @@
       <ul class="nav navbar-nav navbar-right">
         <li><a href="{{ action('HomeController@showMap')}}">The Map</a></li>
         <li><a href="{{ action('HomeController@showTeam')}}">The Team</a></li>
+        <li><a href="{{ action('CommentController@create')}}">Feedback</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">The Admins <i class="fa fa-arrow-down"></i></a>
           <ul class="dropdown-menu">
             <li><a href="#" data-toggle="modal" data-target="#loginModal">Login</a></li>
-            <li><a href="#">Contact Us</a></li>
+            <li><a href="{{ action('CommentController@create')}}">Contact Us</a></li>
             <li class="divider"></li>
             @if(Auth::check())
+            <li><a href="{{ action('CommentController@index')}}">View Feedback</a></li>
             <li><a href="{{ action('HomeController@logout')}}">Logout</a></li>
             @endif
           </ul>
