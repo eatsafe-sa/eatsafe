@@ -40,9 +40,10 @@
           <img class="img-circle profile-pic" src="/img/mario.jpg" alt="Generic placeholder image">
           <h2 class="text-center">Mario</h2>
           <div class="entry">
-            <p class="text-justify">Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+            <p class="text-justify">Mario is an MBA professional, former Marine, certified personal trainer, Arsenal FC fan, long-suffering New York Knicks fan, lover of all things hard rock and heavy metal, and an avid reader. He considers Codeup a reboot of his life, although when choosing an actor to portray him, Ben Affleck would definitely not be on that list.</p>
             <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/mariom1231" target="_blank"><i class="fa fa-github-alt"></i></a>
-            <a class="btn btn-social-icon btn-lg btn-linkedin" href="http://www.linkedin.com/in/mariom1231/" target="_blank"><i class="fa fa-linkedin"></i></a><br />
+            <a class="btn btn-social-icon btn-lg btn-linkedin" href="http://www.linkedin.com/in/mariom1231/" target="_blank"><i class="fa fa-linkedin"></i></a>
+            <a class="btn btn-social-icon btn-lg btn-twitter" href="https://twitter.com/MarioM_1231" target="_blank"><i class="fa fa-twitter"></i></a><br />
           </div>
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-4 ">
