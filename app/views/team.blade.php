@@ -47,7 +47,7 @@
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-4 ">
           <img class="img-circle profile-pic" src="/img/chris.jpg" alt="Generic placeholder image">
-          <br/><br/><h2 class="text-center">Chris</h2>
+          <br/><h2 class="text-center">Chris</h2>
             <div class="entry">
             <p class="text-justify">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
             <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/Chris-Reyna" target="_blank" ><i class="fa fa-github-alt"></i></a>
