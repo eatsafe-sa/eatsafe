@@ -33,8 +33,8 @@
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/moment.js"></script>
     <script src="/js/jquery.address-1.5.min.js"></script>
-    <script src="/js/jquery-ui.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>
+    <!-- <script src="/js/jquery-ui.js"></script> -->
 
     @yield('topscript')
  </head>
