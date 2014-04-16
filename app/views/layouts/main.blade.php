@@ -41,7 +41,7 @@
  <body>
     <div class="errors">
         @if (Session::has('successMessage'))
-            <div class="alert alert-success" style="color:black; font-size:16pt;">{{{ Session::get('successMessage') }}}</div>
+            <div class="alert alert-success alert-dismissable" style="color:black; font-size:16pt;"> <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>{{{ Session::get('successMessage') }}}</div>
         @endif
         @if (Session::has('errorMessage'))
             <div class="alert alert-danger" style="color:black; font-size:16pt;">{{{ Session::get('errorMessage') }}}</div>
