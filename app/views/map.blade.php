@@ -11,6 +11,36 @@
 
 	}
 
+  #legend {
+    margin-left: 0;
+    padding-left: 0;
+    list-style: none;
+    font-size: 12pt;
+  }
+
+#legend li {
+    padding-left: 30px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    line-height: 30px;
+    margin: 0 20px 20px 0;
+  }
+
+#legend li:nth-child(1) {
+    background-image: url('/img/bluemap-sm.png');
+  }
+
+#legend li:nth-child(2) {
+     background-image: url('/img/greenmap-sm.png');
+}
+
+#legend li:nth-child(3) {
+    background-image: url('/img/yellowmap-sm.png');
+}
+
+#legend li:nth-child(4) {
+    background-image: url('/img/redmap-sm.png');
+}
 
 </style>
 
@@ -91,8 +121,17 @@
             </a>
           </div>
           <div class='alert alert-info' id='result_box' ><strong id='result_count'></strong></div>
+          <div class="well">
+            <h4>Legend</h4>
+            <ul id="legend">
+              <li>0 to 10 Demerits</li>
+              <li>11 to 20 Demerits</li>
+              <li>21 to 30 Demerits</li>
+              <li>31 to 40 Demerits</li>
+            </ul>
+          </div>
         </div>
-        <div class='col-md-8'>
+        <div class='col-sm-8'>
           <noscript>
             <div class='alert alert-info'>
               <h4>Your JavaScript is disabled</h4>
@@ -102,7 +141,7 @@
           <div id='map_canvas'></div>
           
         </div>
-      </div>
+      </div>                  
     </div>
 @stop
 
