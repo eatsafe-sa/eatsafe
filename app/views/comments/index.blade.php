@@ -32,10 +32,10 @@
 			</div>
 		</div>
 	@endforeach
-		{{ Form::model($comment, array('action' => array('CommentController@destroy', $comment->id), 'method' => 'delete', 'id' => 'formDeleteComment')) }}
+		{{ Form::open(array('method' => 'delete', 'id' => 'formDeleteComment')) }}
 		{{ Form::close() }}
-		
-			{{ $comments->links()}}
+
+		{{ $comments->links()}}
 			
 
 </div>
