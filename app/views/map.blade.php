@@ -129,7 +129,7 @@
               <li>0 to 10 Demerits</li>
               <li>11 to 20 Demerits</li>
               <li>21 to 30 Demerits</li>
-              <li>Over 31 Demerits</li>
+              <li>31 Demerits and Over </li>
             </ul>
           </div>
         </div>
