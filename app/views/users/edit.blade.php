@@ -21,7 +21,8 @@
 							
 							{{ Form::text('email', $value = null, $attributes = array (
 								'placeholder' => 'E-mail *',
-								'class' => 'form-control'
+								'class' => 'form-control',
+								'autofocus' => 'autofocus'
 							))}}
 						</div>
 						
@@ -39,6 +40,13 @@
 						</div>
 					<input type="submit" class="btn btn-lg btn-success" name="submit" value="Edit User">
 				{{Form::close()}}
+
+				@if (Auth::check() && Auth::user()->is_admin)
+						{{ Form::model($user, array('action' => array('UsersController@update', $user->id), 'method' => 'delete', 'id' => 'formDeletePost')) }}
+						{{ Form::close() }}
+								<a href="#" id="btnDeletePost" class="btn btn-lg btn-danger">Delete User</a>
+								
+				@endif
 				
 
 		</div>
@@ -46,4 +54,14 @@
 @stop
 
 @section('bottomscript')
+<script>
+
+$('#btnDeletePost').on('click', function(e) {
+	e.preventDefault();
+	if(confirm('Are you sure you want to delete this user?')) {
+		$('#formDeletePost').submit();
+	}
+});
+
+</script>
 @stop
