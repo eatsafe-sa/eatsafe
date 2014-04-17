@@ -16,13 +16,14 @@
     padding-left: 0;
     list-style: none;
     font-size: 12pt;
+    padding-bottom: 0 !important;
   }
 
 #legend li {
     padding-left: 30px;
     background-repeat: no-repeat;
     background-position: 0 0;
-    line-height: 30px;
+    line-height: 28px;
     margin: 0 20px 20px 0;
   }
 
@@ -40,6 +41,10 @@
 
 #legend li:nth-child(4) {
     background-image: url('/img/redmap-sm.png');
+}
+
+.well {
+  padding-top: 10px;
 }
 
 </style>
@@ -64,7 +69,7 @@
             <p>
               <input class='form-control' id='search_address' placeholder='Enter an address or an intersection' type='text' />
             </p>
-            <p>
+          
               <label>
                 Within: 
                 <select id='search_radius'>
@@ -74,14 +79,11 @@
                   <option value='3220'>2 miles</option>
                 </select>
               </label>
-            </p>
+          
 
-			<hr />
-			
 				<h4>Restaurant Name </h4>
 				<input class='form-control' id='text_search' placeholder="Enter a Restaurant" type='text' />
            
-			<hr />
 			<!-- Future select by neighborhood feature -->
 			<!-- <p>
             <h4>Search by Region</h4>
@@ -101,7 +103,7 @@
 				  <option value='11'>Far North</option> 
 				</select><br />
             </p> -->
-            <hr />
+            
             <p>
             	<h4>Demerits: <small>
 			    <span id='demerit-selected-start'>0</span> - <span id='demerit-selected-end'>60</span>
@@ -110,7 +112,7 @@
 				<div id='demerit-slider'></div>
 				<span class='pull-left'>0</span>
 				<span class='pull-right'>60</span>
-				</p><br /><hr />
+				</p><br />
             <a class='btn btn-success' id='search' href='#'>
               <i class='glyphicon glyphicon-search'></i>
               Search
