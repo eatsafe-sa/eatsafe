@@ -27,6 +27,11 @@
             <li class="divider"></li>
             @if(Auth::check())
             <li><a href="{{ action('CommentController@index')}}">View Feedback</a></li>
+            @endif
+            @if(Auth::check() && Auth::user()->is_admin)
+            <li><a href="{{ action('UsersController@index') }}">View &amp; Edit Users</a></li>
+            @endif
+            @if(Auth::check())
             <li><a href="{{ action('HomeController@logout')}}">Logout</a></li>
             @endif
           </ul>

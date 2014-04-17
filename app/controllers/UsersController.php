@@ -22,14 +22,12 @@ class UsersController extends \BaseController {
 
 		if(Input::has('search')) {
 			$search = Input::get('search');
-			$users = User::where('first_name', 'LIKE', "%{$search}%")
-							->orWhere('last_name', 'LIKE', "%{$search}%")
-							->orWhere('email', 'LIKE', "%${search}%")
-							->orderBy('first_name', 'asc')
-							->paginate(8);
+			$users = User::where('email', 'LIKE', "%${search}%")
+							->orderBy('email', 'asc')
+							->paginate(5);
 			return View::make('users.index')->with('users', $users);
 		} else {
-			$users = User::orderBy('first_name', 'asc')->paginate(8);
+			$users = User::orderBy('email', 'asc')->paginate(5);
 			return View::make('users.index')->with('users', $users);
 		}
 	}
@@ -127,7 +125,7 @@ class UsersController extends \BaseController {
 			
 			$user->email = Input::get('email');
 			$user->password = Input::get('password');
-			if(Input::get('is_admin') === true) {
+			if(Input::get('is_admin') == true) {
 				$user->is_admin = true;
 			} else {
 				$user->is_admin = false;
@@ -135,7 +133,7 @@ class UsersController extends \BaseController {
 
 			$user->save();
 			Session::flash('successMessage', 'User edited successfully.');
-			return Redirect::action('UsersController@show', $id);
+			return Redirect::action('UsersController@index');
 		}
 	}
 
