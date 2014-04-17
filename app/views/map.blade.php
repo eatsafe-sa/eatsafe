@@ -77,10 +77,10 @@
             </p>
 
 			<hr />
-			<p>
+			
 				<h4>Restaurant Name </h4>
 				<input class='form-control' id='text_search' placeholder="Enter a Restaurant" type='text' />
-            </p>
+           
 			<hr />
 			<!-- Future select by neighborhood feature -->
 			<!-- <p>
