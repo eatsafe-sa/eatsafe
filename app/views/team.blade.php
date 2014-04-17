@@ -30,7 +30,7 @@
           <img class="img-circle profile-pic" src="/img/travis.jpg" alt="Generic placeholder image">
           <h2 class="text-center">Travis</h2>
           <div class="entry">
-            <p class="text-justify">Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+            <p class="text-justify">Travis is a web programmer, musician, respiratory therapist, writer, and artist.  He probably saw 'Buckaroo Banzai' too many times as a kid.  He is a lifelong Seattle Seahawks fan, and isn't sure how to handle their recent success.  Codeup has provided an opportunity to fill gaps in his self-taught knowledge, and has been an excellent networking opportunity.</p>
             <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/travtex" target="_blank"><i class="fa fa-github-alt"></i></a>
             <a class="btn btn-social-icon btn-lg btn-linkedin" href="https://www.linkedin.com/in/travisflatt" target="_blank"><i class="fa fa-linkedin"></i></a>
             <a class="btn btn-social-icon btn-lg btn-twitter" href="https://twitter.com/StudioQuixotic" target="_blank"><i class="fa fa-twitter"></i></a><br />
