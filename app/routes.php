@@ -25,4 +25,5 @@ Route::get('/login', 'HomeController@showLogin');
 Route::post('/login', 'HomeController@doLogin');
 Route::get('/logout', 'HomeController@logout');
 Route::resource('comments', 'CommentController');
+Route::resource('users', 'UsersController');
 
