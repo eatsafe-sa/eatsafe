@@ -38,6 +38,7 @@
 				@endforeach
 			</tbody>
 		</table>
+		<a class="btn btn-lg btn-success pull-right" href="{{ action('UsersController@create') }}"><i class="fa fa-puzzle-piece"></i> Add New User</a>
 	</div>
 </div>
 @stop
