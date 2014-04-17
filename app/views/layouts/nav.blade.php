@@ -14,9 +14,9 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="{{ action('HomeController@showMap')}}">The Map</a></li>
-        <li><a href="{{ action('HomeController@showTeam')}}">The Team</a></li>
-        <li><a href="{{ action('CommentController@create')}}">Feedback</a></li>
+        <li><a href="{{ action('HomeController@showMap')}}"><i class="fa fa-map-marker"></i> The Map</a></li>
+        <li><a href="{{ action('HomeController@showTeam')}}"><i class="fa fa-users"></i> The Team</a></li>
+        <li><a href="{{ action('CommentController@create')}}"><i class="fa fa-comments"></i> Feedback</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">The Admins <i class="fa fa-arrow-down"></i></a>
           <ul class="dropdown-menu">
