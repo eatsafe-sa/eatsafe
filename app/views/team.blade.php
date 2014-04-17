@@ -50,7 +50,7 @@
           <img class="img-circle profile-pic" src="/img/chris.jpg" alt="Generic placeholder image">
           <br/><h2 class="text-center">Chris</h2>
             <div class="entry">
-            <p class="text-justify">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+            <p class="text-justify">Chris is a UTSA graduate, former Texas State Parole Officer, and a self proclaimed sports enthusiast. Chris is very invlolved in the San Antonio community, specifically youth sports. Chris has expressed that his venture into web developement is both challenging and exciting, especially with his first major product EatSafe-SA.</p>
             <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/Chris-Reyna" target="_blank" ><i class="fa fa-github-alt"></i></a>
             <a class="btn btn-social-icon btn-lg btn-linkedin" href="https://www.linkedin.com/in/christopherreyna" target="_blank"><i class="fa fa-linkedin"></i></a><br />
           </div>
