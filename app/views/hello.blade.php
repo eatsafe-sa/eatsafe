@@ -18,7 +18,7 @@
                &nbsp;SA &nbsp;<i class="fa fa-cutlery"></i></h1>
             <p class="lead front-copy">Searchable map of the San Antonio area, providing actual city health inspection data to help you make more informed choices for your dining experience.</p>
             <p class="lead">
-              <a href="/map" class="btn btn-lg btn-default">Find a Safe Spot to Eat</a>
+              <a href="/map" class="btn btn-lg btn-default"><i class="fa fa-search"></i> Find a Safe Spot to Eat</a>
             </p>
           </div>
          <!--  @if (Session::has('successMessage'))
