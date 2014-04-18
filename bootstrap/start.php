@@ -30,6 +30,10 @@ $env = $app->detectEnvironment(array(
  
 ));
 
+$env = $app->detectEnvironment(function () {
+	return $_SERVER['LARAVEL_ENV'] == 'local' ? 'local' : 'production';
+});
+
 /*
 |--------------------------------------------------------------------------
 | Bind Paths
