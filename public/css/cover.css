@@ -60,10 +60,7 @@ body {
   padding: 30px;
 }
 
-.front-copy {
-  text-shadow: 4px 4px 6px #222;
-  font-size: 20pt;
-}
+
 /*
  * Header
  */
@@ -156,6 +153,7 @@ body {
   .cover-container {
     width: 100%; /* Must be percentage or pixels for horizontal alignment */
   }
+  
 }
 
 @media (min-width: 992px) {
@@ -164,4 +162,5 @@ body {
   .cover-container {
     width: 700px;
   }
+
 }
