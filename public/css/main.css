@@ -11,14 +11,27 @@ body {
 }
 
 .neon {
-  text-align: center;
-  /*margin: 200px auto;*/
-  font-family: "Museo";
-  text-transform: uppercase;
-  color: #fff;
+  text-align:center;
+  /*margin: 200px*/
+  /*margin:200px auto;
+  */
+    font-family:"Museo";
+  text-transform:uppercase;
+  color:#fff;
+  /*animation*/
   -webkit-animation:pulse 1.5s ease-in-out infinite alternate;
-  -webkit-backface-visibility: hidden;
+     -moz-animation:pulse 1.5s ease-in-out infinite alternate;
+      -ms-animation:pulse 1.5s ease-in-out infinite alternate;
+       -o-animation:pulse 1.5s ease-in-out infinite alternate;
+          animation:pulse 1.5s ease-in-out infinite alternate;
+  /*backface-visibility*/
+  -webkit-backface-visibility:hidden;
+     -moz-backface-visibility:hidden;
+      -ms-backface-visibility:hidden;
+       -o-backface-visibility:hidden;
+          backface-visibility:hidden;
 }
+
 
 #missing-head {
   font-size: 35pt;
@@ -32,6 +45,11 @@ body {
 
 #coverPage {
   font-size: 72pt;
+}
+
+.front-copy {
+  text-shadow: 4px 4px 6px #222;
+  font-size: 20pt;
 }
 
 .profile-pic {
@@ -150,7 +168,7 @@ max-width: none;
 
 /*------------------------------------------*/
 
-@media (min-width: 768px) {
+@media (max-width: 1024px) {
 
   /* Remove the edge padding needed for mobile */
   .marketing {
@@ -158,7 +176,51 @@ max-width: none;
     padding-left: 0;
   }
 
+  #coverPage {
+    font-size: 60pt;
+  }
+  .front-copy {
+    text-shadow: 4px 4px 6px #222;
+    font-size: 18pt !important;
+  }
+
+}
+
+@media (max-width: 768px) {
+  #coverPage {
+    font-size: 48pt;
+  }
+
+  .front-copy {
+    text-shadow: 4px 4px 6px #222;
+    font-size: 16pt !important;
+  }
+}
+
 @-webkit-keyframes pulse {
+  from {
+    text-shadow: 0 0 10px #fff,
+               0 0 20px #fff,
+               0 0 30px #fff,
+               0 0 40px #ff00de,
+               0 0 70px #ff00de,
+               0 0 80px #ff00de,
+               0 0 100px #ff00de,
+               0 0 150px #ff00de;
+  }
+  to {
+    text-shadow: 0 0 5px #fff,
+               0 0 10px #fff,
+               0 0 15px #fff,
+               0 0 20px #ff00de,
+               0 0 35px #ff00de,
+               0 0 40px #ff00de,
+               0 0 50px #ff00de,
+               0 0 75px #ff00de;
+  }
+}
+
+@keyframes pulse {
   from {
     text-shadow: 0 0 10px #fff,
                0 0 20px #fff,
