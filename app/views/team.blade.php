@@ -40,7 +40,7 @@
           <img class="img-circle profile-pic" src="/img/mario.jpg" alt="Generic placeholder image">
           <h2 class="text-center">Mario</h2>
           <div class="entry">
-            <p class="text-justify">Mario is an MBA professional, former Marine, certified personal trainer, Arsenal FC fan, long-suffering New York Knicks fan, lover of all things hard rock and heavy metal, and an avid reader. He considers Codeup a reboot of his life, although when choosing an actor to portray him, Ben Affleck would definitely not be on that list.</p>
+            <p class="text-justify">Mario is an MBA holder, former Marine, certified personal trainer, Arsenal FC fan, long-suffering New York Knicks fan, lover of all things hard rock and heavy metal, and an avid reader. He considers Codeup a reboot of his life, although when choosing an actor to portray him, Ben Affleck would definitely not be on that list.</p>
             <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/mariom1231" target="_blank"><i class="fa fa-github-alt"></i></a>
             <a class="btn btn-social-icon btn-lg btn-linkedin" href="http://www.linkedin.com/in/mariom1231/" target="_blank"><i class="fa fa-linkedin"></i></a>
             <a class="btn btn-social-icon btn-lg btn-twitter" href="https://twitter.com/MarioM_1231" target="_blank"><i class="fa fa-twitter"></i></a><br />
@@ -50,7 +50,7 @@
           <img class="img-circle profile-pic" src="/img/chris.jpg" alt="Generic placeholder image">
           <br/><h2 class="text-center">Chris</h2>
             <div class="entry">
-            <p class="text-justify">Chris is a UTSA graduate, former Texas State Parole Officer, and a self proclaimed sports enthusiast. Chris is very invlolved in the San Antonio community, specifically youth sports. Chris has expressed that his venture into web developement is both challenging and exciting, especially with his first major product EatSafe-SA.</p>
+            <p class="text-justify">Chris is a UTSA graduate, former Texas State Parole Officer, and a self proclaimed sports enthusiast. Chris is very invlolved in the San Antonio community, specifically youth sports. Chris has expressed that his venture into web development is both challenging and exciting, especially with his first major product EatSafe-SA.</p>
             <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/Chris-Reyna" target="_blank" ><i class="fa fa-github-alt"></i></a>
             <a class="btn btn-social-icon btn-lg btn-linkedin" href="https://www.linkedin.com/in/christopherreyna" target="_blank"><i class="fa fa-linkedin"></i></a><br />
           </div>
